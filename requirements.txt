@@ -1,5 +1,5 @@
 filterpy
-numba
+# numba
 numpy
 numpy
 opencv-python

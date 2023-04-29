@@ -6,7 +6,7 @@ det. item to the best possible tracked item (i.e. to the one with max IOU)
 """
 
 import numpy as np
-from numba import jit
+# from numba import jit
 from scipy.optimize import linear_sum_assignment as linear_assignment
 
 
